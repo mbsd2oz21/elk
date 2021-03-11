@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T10:57:49.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" version="14.4.7" etag="TtNQ8EOPyP8L67d4Mrlb" type="github"><diagram id="kXtA79PJ7VIiJS8XXpkL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-11T13:27:55.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="2HGZU4jwsFyj1poOkx2P" version="14.4.7" type="github">
+  <diagram id="kXtA79PJ7VIiJS8XXpkL" name="Page-1">
+    <mxGraphModel dx="1137" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CHunsl2OKNnLCoyjki6x-1" value="Jump Box Provisioner" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CHunsl2OKNnLCoyjki6x-2" value="web 2&amp;nbsp;&lt;br&gt;10.0.0.6" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="465" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CHunsl2OKNnLCoyjki6x-3" value="web 1&lt;br&gt;10.0.0.5" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CHunsl2OKNnLCoyjki6x-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="830" as="sourcePoint" />
+            <mxPoint x="1040" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHunsl2OKNnLCoyjki6x-7" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="830" as="sourcePoint" />
+            <mxPoint x="1040" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHunsl2OKNnLCoyjki6x-9" value="Azure Red Team 1 Resource Group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="20" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CHunsl2OKNnLCoyjki6x-11" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="830" as="sourcePoint" />
+            <mxPoint x="1040" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHunsl2OKNnLCoyjki6x-12" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="830" as="sourcePoint" />
+            <mxPoint x="1040" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHunsl2OKNnLCoyjki6x-13" value="Red Team Network Security Group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="60" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
